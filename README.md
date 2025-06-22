@@ -34,7 +34,7 @@ This Node.js microservice validates Indonesian e-Faktur files (PDF or JPG) by ex
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/efaktur-validator.git
+git clone https://github.com/ari633/efaktur-validator.git
 cd efaktur-validator
 npm install
 ```
