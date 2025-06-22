@@ -1,0 +1,9 @@
+/node_modules
+/dist
+/.cache
+/.next
+/.nuxt
+/.vscode
+/.idea
+/.DS_Store
+/.env 
